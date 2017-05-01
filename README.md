@@ -7,4 +7,4 @@ A simple shell program that creates/forks a new process for every command entere
 
 * See last 10 commands: `$ history` 
 
-* Run the last command `& !!`
+* Run the last command `$ !!`
